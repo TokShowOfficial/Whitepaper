@@ -1,7 +1,7 @@
 ---
 description: >-
   TokShow is a web3 lifestyle app that rewards users for broadcasting and
-  whatching.
+  watching.
 ---
 
 # What is TokShow?
